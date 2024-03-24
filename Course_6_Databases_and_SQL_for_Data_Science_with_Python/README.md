@@ -5,14 +5,14 @@ In this course you will learn SQL inside out- from the very basics of Select sta
 advanced concepts like JOINs. 
 You will: 
 
--write foundational SQL statements like: SELECT, INSERT, UPDATE, and DELETE 
--filter result sets, use WHERE, COUNT, DISTINCT, and LIMIT clauses 
--differentiate between DML & DDL 
--CREATE, ALTER, DROP and load tables 
--use string patterns and ranges; ORDER and GROUP result sets, and built-in database functions
--build sub-queries and query data from multiple tables 
--access databases as a data scientist using Jupyter notebooks with SQL and Python
--work with advanced concepts like Stored Procedures, Views, ACID Transactions, Inner & Outer JOINs through hands-on labs and projects
+- write foundational SQL statements like: SELECT, INSERT, UPDATE, and DELETE 
+- filter result sets, use WHERE, COUNT, DISTINCT, and LIMIT clauses 
+- differentiate between DML & DDL 
+- CREATE, ALTER, DROP and load tables 
+- use string patterns and ranges; ORDER and GROUP result sets, and built-in database functions
+- build sub-queries and query data from multiple tables 
+- access databases as a data scientist using Jupyter notebooks with SQL and Python
+- work with advanced concepts like Stored Procedures, Views, ACID Transactions, Inner & Outer JOINs through hands-on labs and projects
 
 You will  practice building SQL queries, work with real databases on the Cloud, and use real data science tools. 
 
