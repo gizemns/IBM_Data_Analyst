@@ -3,9 +3,7 @@
 ## About 
 ## Courses
 
-[![courses] ([Certificates/IBM_Introduction_to_Data_Analysis.jpg](https://github.com/gizemns/IBM_Data_Analyst/blob/main/Certificates/IBM_Introduction_to_Data_Analysis.jpg?raw=true))]
-
-[![courses](Certificates/IBM_Introduction_to_Data_Analysis.jpg)](https://github.com/gizemns/IBM_Data_Analyst/blob/main/Certificates/IBM_Introduction_to_Data_Analysis.jpg?raw=true)
+[![courses] (Certificates/IBM_Introduction_to_Data_Analysis.jpg)](https://github.com/gizemns/IBM_Data_Analyst/blob/main/Certificates/IBM_Introduction_to_Data_Analysis.jpg?raw=true)
 
 
 ### 1. Introduction to Data Analysis
