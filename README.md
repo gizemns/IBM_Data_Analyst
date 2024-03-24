@@ -2,6 +2,9 @@
 
 ## About 
 ## Courses
+
+[![courses] (Certificates/IBM_Introduction_to_Data_Analysis.jpg)]
+
 ### 1. Introduction to Data Analysis
 
 This course presents you with a gentle introduction to Data Analysis, the role of a Data Analyst, and the tools used in this job.
