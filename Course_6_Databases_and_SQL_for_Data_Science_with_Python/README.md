@@ -4,6 +4,7 @@ Working knowledge of SQL (or Structured Query Language) is a must for data profe
 In this course you will learn SQL inside out- from the very basics of Select statements to
 advanced concepts like JOINs. 
 You will: 
+
 -write foundational SQL statements like: SELECT, INSERT, UPDATE, and DELETE 
 -filter result sets, use WHERE, COUNT, DISTINCT, and LIMIT clauses 
 -differentiate between DML & DDL 
