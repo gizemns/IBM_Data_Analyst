@@ -1,14 +1,16 @@
 # IBM Data Analyst Professional Certificate
 
 ## About 
-## 
-[!Introduction to Data Analysis] (Certificates/IBM_Introduction_to_Data_Analysis.jpg)
-
-This course presents an introduction to Data Analysis, the role of a Data Analyst, and the tools used in this job. You will learn about the skills and responsibilities of a data analyst. You will familiarize yourself with the data ecosystem, alongside Databases, Data Warehouses, Data Marts, Data Lakes and Data Pipelines. Continue this exciting journey and discover Big Data platforms such as Hadoop, Hive, and Spark.  
-
-By the end of this course you’ll be able to understand the fundamentals of the data analysis process including gathering, cleaning, analyzing and sharing data and communicating your insights with the use of visualizations and dashboard tools.
-
+## Courses
+## Introduction to Data Analysis
+### Details:
+- What Data Analytics is and the key steps in the Data Analytics process
+- Differentiate between different data roles such as Data Engineer, Data Analyst, Data Scientist, Business Analyst, and Business Intelligence Analyst
+- Describe the different types of data structures, file formats, and sources of data
+- Describe the data analysis process involving collecting, wrangling, mining, and visualizing data
+- 
 ### Excel Basics for Data Analysis
+
 
 *Skills:*
 
