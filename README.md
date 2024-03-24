@@ -2,7 +2,7 @@
 
 ## About 
 ## 
-[Introduction to Data Analysis] (https://github.com/gizemns/IBM_Data_Analyst/blob/main/Certificates/IBM_Introduction_to_Data_Analysis.jpg?raw=true)
+[Introduction to Data Analysis] (Certificates/IBM_Introduction_to_Data_Analysis.jpg)
 
 This course presents an introduction to Data Analysis, the role of a Data Analyst, and the tools used in this job. You will learn about the skills and responsibilities of a data analyst. You will familiarize yourself with the data ecosystem, alongside Databases, Data Warehouses, Data Marts, Data Lakes and Data Pipelines. Continue this exciting journey and discover Big Data platforms such as Hadoop, Hive, and Spark.  
 
