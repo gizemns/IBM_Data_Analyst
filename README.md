@@ -5,6 +5,9 @@
 
 [![courses] ([Certificates/IBM_Introduction_to_Data_Analysis.jpg](https://github.com/gizemns/IBM_Data_Analyst/blob/main/Certificates/IBM_Introduction_to_Data_Analysis.jpg?raw=true))]
 
+[![courses](Certificates/IBM_Introduction_to_Data_Analysis.jpg)](https://github.com/gizemns/IBM_Data_Analyst/blob/main/Certificates/IBM_Introduction_to_Data_Analysis.jpg?raw=true)
+
+
 ### 1. Introduction to Data Analysis
 
 This course presents you with a gentle introduction to Data Analysis, the role of a Data Analyst, and the tools used in this job.
