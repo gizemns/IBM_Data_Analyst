@@ -4,7 +4,9 @@
 
 Welcome to my GitHub repository! 
 
-I'm currently enrolled in the IBM Data Analyst Professional Certificate program. This comprehensive program, offered by IBM, provides learners with essential skills and knowledge in data analysis. Throughout the course, I'll be diving into topics such as data cleaning, data visualization, SQL, Python programming, and more. This repository serves as a platform for me to document my learning journey, showcase projects, and share insights gained from the course. Explore along with me as I dive into the fascinating world of data analysis and develop new skills in this exciting field 🚀
+I'm currently enrolled in the IBM Data Analyst Professional Certificate program. This comprehensive program, offered by IBM, provides learners with essential skills and knowledge in data analysis. Throughout the course, I'll be diving into topics such as data cleaning, data visualization, SQL, Python programming, and more. 
+
+This repository serves as a platform for me to document my learning journey, showcase projects, and share insights gained from the course. Explore along with me as I dive into the fascinating world of data analysis and develop new skills in this exciting field 🚀
 
 ## Courses
 ### [1. Introduction to Data Analysis](Certificates/IBM_Introduction_to_Data_Analysis.jpg)
