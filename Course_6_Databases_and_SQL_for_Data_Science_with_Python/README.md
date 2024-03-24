@@ -17,3 +17,6 @@ You will:
 You will  practice building SQL queries, work with real databases on the Cloud, and use real data science tools. 
 
 In the final project you’ll analyze multiple real-world datasets to demonstrate your skills.
+
+### Course Certificate
+![Certificate](https://github.com/gizemns/IBM_Data_Analyst/blob/main/Certificates/IBM_Databases_and_SQL.jpg?raw=true)
